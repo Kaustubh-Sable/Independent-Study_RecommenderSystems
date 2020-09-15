@@ -23,6 +23,7 @@ Above definition can be re-written recursively as:
 ![Example](https://github.com/Kaustubh-Sable/Independent-Study_RecommenderSystems/blob/master/Reinforcement_Learning/Images/ActionValue_REW.png)
 
 Greedily choose an action from our Q(a):
+
 ![Example](https://github.com/Kaustubh-Sable/Independent-Study_RecommenderSystems/blob/master/Reinforcement_Learning/Images/GreedyAction.png)
 
 #### Example:
