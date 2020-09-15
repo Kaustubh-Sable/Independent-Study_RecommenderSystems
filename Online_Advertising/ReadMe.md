@@ -5,6 +5,7 @@ For this study, I mainly studied two research papers.
 
 ##### First paper:
 Deep Reinforcement Learning for Online Advertising in Recommender Systems: https://arxiv.org/pdf/1909.03602.pdf 
+
 ![Deep Reinforcement Learning for Online Advertising in Recommender Systems](https://github.com/Kaustubh-Sable/Independent-Study_RecommenderSystems/blob/master/Online_Advertising/Images/Paper1.png)
 
 ##### What does this paper propose?
@@ -26,6 +27,7 @@ AE can be used to learn the lower-dimensional feature representations at the bot
 Collaborative Deep Ranking: https://github.com/USCDataScience/Image-Similarity-Deep-Ranking/blob/master/deep_ranking.pdf 
 
 Collaborative Deep Ranking is devised specifically in a pairwise framework for the top-n recommendation. The paper shows that the pairwise model is more suitable for ranking lists generation.
+
 ![Collaborative Deep Ranking](https://github.com/Kaustubh-Sable/Independent-Study_RecommenderSystems/blob/master/Online_Advertising/Images/Paper2.png)
 
 ##### What does this paper propose?
