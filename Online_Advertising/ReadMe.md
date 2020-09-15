@@ -3,7 +3,7 @@ Under this topic, I broadly explored the reinforcement learning algorithms used 
 ##### Reference
 For this study, I mainly studied two research papers. 
 
-##### First paper:
+#### First paper:
 Deep Reinforcement Learning for Online Advertising in Recommender Systems: https://arxiv.org/pdf/1909.03602.pdf 
 
 ![Deep Reinforcement Learning for Online Advertising in Recommender Systems](https://github.com/Kaustubh-Sable/Independent-Study_RecommenderSystems/blob/master/Online_Advertising/Images/Paper1.png)
@@ -23,7 +23,7 @@ Almost all of its variants (denoting AE, variational AE, connective AE, and marg
 
 AE can be used to learn the lower-dimensional feature representations at the bottleneck layer.
 
-##### Second paper:
+#### Second paper:
 Collaborative Deep Ranking: https://github.com/USCDataScience/Image-Similarity-Deep-Ranking/blob/master/deep_ranking.pdf 
 
 Collaborative Deep Ranking is devised specifically in a pairwise framework for the top-n recommendation. The paper shows that the pairwise model is more suitable for ranking lists generation.
