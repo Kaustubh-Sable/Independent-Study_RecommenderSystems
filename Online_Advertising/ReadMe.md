@@ -24,6 +24,7 @@ AE can be used to learn the lower-dimensional feature representations at the bot
 
 ##### Second paper:
 Collaborative Deep Ranking: https://github.com/USCDataScience/Image-Similarity-Deep-Ranking/blob/master/deep_ranking.pdf 
+
 Collaborative Deep Ranking is devised specifically in a pairwise framework for the top-n recommendation. The paper shows that the pairwise model is more suitable for ranking lists generation.
 ![Collaborative Deep Ranking](https://github.com/Kaustubh-Sable/Independent-Study_RecommenderSystems/blob/master/Online_Advertising/Images/Paper2.png)
 
