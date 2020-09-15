@@ -18,8 +18,10 @@ the rest of the time (probability 1−ϵ) we will choose the best lever based on
 
 ##### Action-value function:
 ![Example](https://github.com/Kaustubh-Sable/Independent-Study_RecommenderSystems/blob/master/Reinforcement_Learning/Images/ActionValue_function.png)
+
 Above definition can be re-written recursively as:
 ![Example](https://github.com/Kaustubh-Sable/Independent-Study_RecommenderSystems/blob/master/Reinforcement_Learning/Images/ActionValue_REW.png)
+
 Greedily choose an action from our Q(a):
 ![Example](https://github.com/Kaustubh-Sable/Independent-Study_RecommenderSystems/blob/master/Reinforcement_Learning/Images/GreedyAction.png)
 
@@ -28,7 +30,7 @@ Greedily choose an action from our Q(a):
 
 #### Notes
 * More information on NDCG and word2Vec can be found in this [presentation](https://github.com/Kaustubh-Sable/Independent-Study_RecommenderSystems/blob/master/Slides/KS_Week8_Reco_Sys.pptx).
-* The python notebook can also be seen live on Google Colab here: https://colab.research.google.com/drive/1OudhokrWzhHjlyWmbtBRgc9AwZQBcAEj?usp=sharing
+* The python notebook can also be seen live on *Google Colab* here: https://colab.research.google.com/drive/1OudhokrWzhHjlyWmbtBRgc9AwZQBcAEj?usp=sharing
 
 #### References
 * Reinforcement Learning - Multi-Armed Bandit problem: https://towardsdatascience.com/solving-the-multi-armed-bandit-problem-b72de40db97c 
