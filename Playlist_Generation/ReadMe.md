@@ -35,7 +35,7 @@ This is a sample result where a playlist is generated based on the given song as
 
 #### Notes
 * More information on NDCG and word2Vec can be found in this [presentation](https://github.com/Kaustubh-Sable/Independent-Study_RecommenderSystems/blob/master/Slides/KS_Week8_Reco_Sys.pptx).
-* The python notebook can also be seen live on Google Colab here: https://colab.research.google.com/drive/1JfBOezfVWyYre219HND-0PmDlNvJJshS?usp=sharing
+* The python notebook can also be seen live on *Google Colab* here: https://colab.research.google.com/drive/1JfBOezfVWyYre219HND-0PmDlNvJJshS?usp=sharing
 
 #### References
 * Related research Paper: https://arxiv.org/pdf/1804.04212.pdf 
